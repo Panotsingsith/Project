@@ -1,0 +1,98 @@
+export default  {
+    products: [
+       
+        {id: 1,
+            name: 'ASICS Gel-Lyte III Ronnie Fieg Militia (Special Box)',
+            brand: 'ASICS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 50,
+            numReview: 20, 
+            image: '/images/asics1.jpg'
+        },
+        {id: 2,
+            name: 'ASICS Gel-Lyte III Afew "Koi" (Regular Box)',
+            brand: 'ASICS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 50,
+            numReview: 20, 
+            image: '/images/asics2.jpg'
+        },
+        {id: 3,
+            name: 'ASICS Gel-Lyte III Purple Grey Lime',
+            brand: 'ASICS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 50,
+            numReview: 20, 
+            image: '/images/asics3.jpg'
+        },
+        {id: 4,
+            name: 'Asics Gel-Lyte III White Piedmont Grey',
+            brand: 'ASICS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 50,
+            numReview: 20, 
+            image: '/images/asics4.jpg'
+        },
+        {id: 5,
+            name: 'Asics Gel-Lyte III Lime Zest',
+            brand: 'ASICS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 50,
+            numReview: 20, 
+            image: '/images/asics5.jpg'
+        },
+        {id: 6,
+            name: 'ASICS Gel-Lyte III Russet Brown',
+            brand: 'ASICS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 50,
+            numReview: 20, 
+            image: '/images/asics6.jpg'
+        },
+        {id: 7,
+            name: 'Asics Gel-Lyte III Dragon Fruit',
+            brand: 'ASICS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 50,
+            numReview: 20, 
+            image: '/images/asics7.jpg'
+        },
+        {id: 8,
+            name: 'Asics Gel-Lyte III Techno Cyan',
+            brand: 'ASICS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 50,
+            numReview: 20, 
+            image: '/images/asics8.jpg'
+        },
+        {id: 9,
+            name: 'ASICS Gel-Lyte III Ivory',
+            brand: 'ASICS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 50,
+            numReview: 20, 
+            image: '/images/asics9.jpg'
+        },
+        {id: 10,
+            name: 'Asics Gel-Lyte III Aquarium',
+            brand: 'ASICS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 50,
+            numReview: 20, 
+            image: '/images/asics10.jpg'
+        },
+    ]
+}
+
+
+

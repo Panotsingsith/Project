@@ -1,0 +1,118 @@
+export default  {
+    products: [
+       
+        {id: 1,
+            name: 'adidas Yeezy Boost 350 V2 Cinder',
+            brand: 'ADIDAS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 50,
+            numReview: 20, 
+            image: '/images/adidas1.jpg'
+        },
+        
+        
+        {id: 2,
+            name: 'adidas Equipment Running Guidance Black',
+            brand: 'ADIDAS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 50,
+            numReview: 20, 
+            image: '/images/adidas3.jpg'
+        },
+        {id: 3,
+            name: 'adidas Yeezy Boost 350 V2 Beluga 2.0',
+            brand: 'ADIDAS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 50,
+            numReview: 20, 
+            image: '/images/adidas4.jpg'
+        },
+        {id: 4,
+            name: 'adidas Yeezy Boost 350 V2 Cinder',
+            brand: 'ADIDAS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 10,
+            numReview: 20, 
+            image: '/images/adidas5.jpg'
+        },
+        {id: 5,
+            name: 'adidas Yeezy Boost 350 V2 Semi Frozen Yellow',
+            brand: 'ADIDAS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 10,
+            numReview: 20, 
+            image: '/images/adidas6.jpg'
+        },
+        {id: 6,
+            name: 'adidas Yeezy 500 Soft Vision',
+            brand: 'ADIDAS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 10,
+            numReview: 20, 
+            image: '/images/adidas7.jpg'
+        },
+        {id: 7,
+            name: 'adidas Nite Jogger Beyonce Ivy Park',
+            brand: 'ADIDAS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 10,
+            numReview: 20, 
+            image: '/images/adidas8.jpg'
+        },
+        {id: 8,
+            name: 'adidas Sleek Super 72 Beyonce Ivy Park (W)',
+            brand: 'ADIDAS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 10,
+            numReview: 20, 
+            image: '/images/adidas9.jpg'
+        },
+        {id: 9,
+            name: 'adidas NMD XR1 OG Black',
+            brand: 'ADIDAS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 10,
+            numReview: 20, 
+            image: '/images/adidas10.jpg'
+        },
+        {id: 10,
+            name: 'adidas NMD Hu Pharrell Solar Pack Orange',
+            brand: 'ADIDAS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 10,
+            numReview: 20, 
+            image: '/images/adidas11.jpg'
+        },
+        {id: 11,
+            name: 'adidas Nite Jogger 3M Navy',
+            brand: 'ADIDAS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 10,
+            numReview: 20, 
+            image: '/images/adidas12.jpg'
+        },
+        {id: 12,
+            name: 'adidas Nite Jogger 3M Core Black Crystal White',
+            brand: 'ADIDAS',
+            price: 3500,
+            rating: 3.5,
+            numStock: 10,
+            numReview: 20, 
+            image: '/images/adidas13.jpg'
+        },
+    ]
+}
+
+
+
